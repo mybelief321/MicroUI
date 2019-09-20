@@ -1,0 +1,13 @@
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\bin\x86\Debug\MicroUI.Wpf.Samples.exe.config
+E:\文档\公司项目\MicroUI\microui\wpf\Libs\MicroUI.Wpf.Samples.exe.config
+E:\文档\公司项目\MicroUI\microui\wpf\Libs\MicroUI.Wpf.Samples.exe
+E:\文档\公司项目\MicroUI\microui\wpf\Libs\MicroUI.Wpf.Samples.pdb
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MainWindow.baml
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MainWindow.g.cs
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\App.g.cs
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MicroUI.Wpf.Samples_MarkupCompile.cache
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MicroUI.Wpf.Samples.g.resources
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MicroUI.Wpf.Samples.Properties.Resources.resources
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MicroUI.Wpf.Samples.csproj.GenerateResource.Cache
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MicroUI.Wpf.Samples.exe
+E:\文档\公司项目\MicroUI\microui\wpf\Srcs\MicroUI.Wpf.Samples\obj\x86\Debug\MicroUI.Wpf.Samples.pdb
